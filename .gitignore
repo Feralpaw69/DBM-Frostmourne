@@ -1,0 +1,14 @@
+# This repository lives in Interface/AddOns but only tracks the DBM folders.
+/*
+!/.gitignore
+!/README.md
+!/DBM-*/
+
+# Junk / backups
+*.bak
+*.orig
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
+*.zip

@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Range 2|r
+## Notes: Second, independent range radar for DBM. /range2 x
+## Version: 1.0
+## Dependencies: DBM-Core
+## SavedVariables: DBMRange2DB
+DBM-Range2.lua
