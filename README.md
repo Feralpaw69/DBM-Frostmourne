@@ -6,8 +6,8 @@
 **This is a fork.** Based on [DBM-Whitemane](https://github.com/broizter/DBM-Whitemane) (Barsoom, Bunny67, Zidras, DBM-Frostmourne contributors and the original DBM team). All credit for DBM itself goes to them.
 
 ## What's different in this fork
-- Boss timers corrected and extended from logged combat data (BossSpellTimers), e.g. Naxxramas, Eye of Eternity, Obsidian Sanctum
-- Additional mechanics with icons, options and sounds like normal DBM entries
+- Boss timers corrected and extended, e.g. Naxxramas, Eye of Eternity, Obsidian Sanctum
+- Additional custom mechanics with icons, options and sounds like normal DBM entries
 - Range frames with sensible distances at pull where missing
 - **DBM-Range2**: a second, independent range check – `/range <yards>` for the first, `/range2 <yards>` for the second, (shows only tank and boss)
 
