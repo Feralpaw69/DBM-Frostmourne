@@ -1,6 +1,8 @@
 # This repository lives in Interface/AddOns but only tracks the DBM folders.
 /*
 !/.gitignore
+!/.gitattributes
+!/.github/
 !/README.md
 !/DBM-*/
 

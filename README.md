@@ -12,7 +12,7 @@
 - **DBM-Range2**: a second, independent range check – `/range <yards>` for the first, `/range2 <yards>` for the second, (shows only tank and boss)
 
 ## Installation
-1. Download the latest ZIP from **Releases**.
+1. Download the latest ZIP from **Releases** (or *Code → Download ZIP*; there the folders sit inside `DBM-Frostmourne-main`).
 2. Copy all `DBM-*` folders from the ZIP into `World of Warcraft/Interface/AddOns/` (replace your existing DBM).
 3. `/reload`
 
